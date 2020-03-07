@@ -1,1 +1,1 @@
-# Google_Code_Jam_2019_Qualification_Round
+# Google Code Jam Solution Set
